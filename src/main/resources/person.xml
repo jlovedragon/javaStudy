@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<parents>
+    <parent id="p1">
+        <child xid="c1" sex="男" >child1</child>
+        <child xid="c2" sex="女" >child2</child>
+    </parent>
+    <parent id="p2">
+        <child xid="c3" sex="女" >child3</child>
+        <child xid="c4" sex="男" >child4</child>
+    </parent>
+</parents>
